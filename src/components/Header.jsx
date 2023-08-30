@@ -10,7 +10,6 @@ const Header = () => {
         <header style={headerStyle} className={styles.header}>
         
     <h1>Todos</h1>
-        <p>Items will persist in the browser local storage</p>
       </header>
     );
   };
