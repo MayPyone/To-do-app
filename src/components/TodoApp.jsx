@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import Header from '@/components/Header';
 import TodosLogic from '@/components/TodosLogic';
 const TodoApp = () => {

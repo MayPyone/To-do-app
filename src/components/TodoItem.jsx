@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import styles from '@/styles/TodoItem.module.css';
 import { useState } from 'react';
 const TodoItem = ({ itemProp, handleChange, delTodo, setUpdate }) => {
